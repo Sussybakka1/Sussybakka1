@@ -9,5 +9,5 @@
 - VisualStudioCode
 - Roblox Studio
 ## Contact and Media
-- Youtube Channel [https://www.youtube.com/c/@treeslovecookies1767]
-- Discord [https://discord.gg/discordapp.com/users/783690733898563605]
+- Youtube Channel[https://www.youtube.com/c/@treeslovecookies1767]
+- Discord[https://discord.gg/discordapp.com/users/783690733898563605]
