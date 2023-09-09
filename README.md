@@ -10,6 +10,6 @@
 ## Tools
 - VisualStudioCode
 - Roblox Studio
-## Contact and Media[
+## Contact and Media
 - [Youtube Channel](](https://www.youtube.com/channel/UCYSyanLHSBE9PZ4IRqqlifA))
 - [Discord](https://discordapp.com/users/783690733898563605)
