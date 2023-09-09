@@ -12,4 +12,4 @@
 - Roblox Studio
 ## Contact and Media[
 - [Youtube Channel](](https://www.youtube.com/channel/UCYSyanLHSBE9PZ4IRqqlifA))
-- [Discord](https://discord.gg/discordapp.com/users/783690733898563605)
+- [Discord](https://discordapp.com/users/783690733898563605)
